@@ -1,0 +1,258 @@
+[
+  {
+    "name": "Greek Salad",
+    "image": "food_1.png",
+    "price": 996,
+    "rating": 3.5,
+    "description": "Wholesome and crunchy salad packed with seasonal greens and zesty flavors.",
+    "category": "Salad"
+  },
+  {
+    "name": "Veg Salad",
+    "image": "food_2.png",
+    "price": 1494,
+    "rating": 4.4,
+    "description": "A crisp, refreshing mix of farm-fresh veggies tossed in flavorful dressing.",
+    "category": "Salad"
+  },
+  {
+    "name": "Clover Salad",
+    "image": "food_3.png",
+    "price": 1328,
+    "rating": 4.2,
+    "description": "A delicious blend of nutrients and taste in every bite of this fresh salad.",
+    "category": "Salad"
+  },
+  {
+    "name": "Chicken Salad",
+    "image": "food_4.png",
+    "price": 1992,
+    "rating": 4.4,
+    "description": "A crisp, refreshing mix of farm-fresh veggies tossed in flavorful dressing.",
+    "category": "Salad"
+  },
+  {
+    "name": "Lasagna Rolls",
+    "image": "food_5.png",
+    "price": 1162,
+    "rating": 4.3,
+    "description": "An irresistible roll packed with savory ingredients and bold spices.",
+    "category": "Rolls"
+  },
+  {
+    "name": "Peri Peri Rolls",
+    "image": "food_6.png",
+    "price": 996,
+    "rating": 4.9,
+    "description": "An irresistible roll packed with savory ingredients and bold spices.",
+    "category": "Rolls"
+  },
+  {
+    "name": "Chicken Rolls",
+    "image": "food_7.png",
+    "price": 1660,
+    "rating": 4.2,
+    "description": "An irresistible roll packed with savory ingredients and bold spices.",
+    "category": "Rolls"
+  },
+  {
+    "name": "Veg Rolls",
+    "image": "food_8.png",
+    "price": 1245,
+    "rating": 4.0,
+    "description": "Stuffed with delicious fillings and wrapped in soft bread, perfect for snacking.",
+    "category": "Rolls"
+  },
+  {
+    "name": "Ripple Ice Cream",
+    "image": "food_9.png",
+    "price": 1162,
+    "rating": 4.9,
+    "description": "Chilled and flavorful, this dessert melts in your mouth with every spoon.",
+    "category": "Deserts"
+  },
+  {
+    "name": "Fruit Ice Cream",
+    "image": "food_10.png",
+    "price": 1826,
+    "rating": 4.5,
+    "description": "Sweet, smooth, and the perfect end to your meal.",
+    "category": "Deserts"
+  },
+  {
+    "name": "Jar Ice Cream",
+    "image": "food_11.png",
+    "price": 830,
+    "rating": 4.6,
+    "description": "Sweet, smooth, and the perfect end to your meal.",
+    "category": "Deserts"
+  },
+  {
+    "name": "Vanilla Ice Cream",
+    "image": "food_12.png",
+    "price": 996,
+    "rating": 4.8,
+    "description": "A creamy delight with rich flavors to satisfy your sweet tooth.",
+    "category": "Deserts"
+  },
+  {
+    "name": "Chicken Sandwich",
+    "image": "food_13.png",
+    "price": 996,
+    "rating": 4.7,
+    "description": "A delicious sandwich layered with fresh ingredients and grilled to perfection.",
+    "category": "Sandwich"
+  },
+  {
+    "name": "Vegan Sandwich",
+    "image": "food_14.png",
+    "price": 1494,
+    "rating": 3.7,
+    "description": "Hearty, wholesome, and full of flavor — great for lunch or a quick bite.",
+    "category": "Sandwich"
+  },
+  {
+    "name": "Grilled Sandwich",
+    "image": "food_15.png",
+    "price": 1328,
+    "rating": 4.1,
+    "description": "Grilled and packed with goodness, every bite is a savory experience.",
+    "category": "Sandwich"
+  },
+  {
+    "name": "Bread Sandwich",
+    "image": "food_16.png",
+    "price": 1992,
+    "rating": 3.7,
+    "description": "Hearty, wholesome, and full of flavor — great for lunch or a quick bite.",
+    "category": "Sandwich"
+  },
+  {
+    "name": "Cup Cake",
+    "image": "food_17.png",
+    "price": 1162,
+    "rating": 4.1,
+    "description": "Soft, moist, and baked to perfection — a sweet treat for all occasions.",
+    "category": "Cake"
+  },
+  {
+    "name": "Vegan Cake",
+    "image": "food_18.png",
+    "price": 996,
+    "rating": 4.9,
+    "description": "Every slice is a moment of sweet indulgence.",
+    "category": "Cake"
+  },
+  {
+    "name": "Butterscotch Cake",
+    "image": "food_19.png",
+    "price": 1660,
+    "rating": 4.9,
+    "description": "Fluffy and rich with the flavor of love and sugar.",
+    "category": "Cake"
+  },
+  {
+    "name": "Sliced Cake",
+    "image": "food_20.png",
+    "price": 1245,
+    "rating": 4.9,
+    "description": "Fluffy and rich with the flavor of love and sugar.",
+    "category": "Cake"
+  },
+  {
+    "name": "Garlic Mushroom",
+    "image": "food_21.png",
+    "price": 1162,
+    "rating": 3.6,
+    "description": "Plant-based perfection with aromatic flavors in every bite.",
+    "category": "Pure Veg"
+  },
+  {
+    "name": "Fried Cauliflower",
+    "image": "food_22.png",
+    "price": 1826,
+    "rating": 4.9,
+    "description": "A savory vegetarian dish rich in spices and packed with nutrition.",
+    "category": "Pure Veg"
+  },
+  {
+    "name": "Mix Veg Pulao",
+    "image": "food_23.png",
+    "price": 830,
+    "rating": 4.0,
+    "description": "Hearty and flavorful — a go-to for veggie lovers.",
+    "category": "Pure Veg"
+  },
+  {
+    "name": "Rice Zucchini",
+    "image": "food_24.png",
+    "price": 996,
+    "rating": 4.9,
+    "description": "Plant-based perfection with aromatic flavors in every bite.",
+    "category": "Pure Veg"
+  },
+  {
+    "name": "Cheese Pasta",
+    "image": "food_25.png",
+    "price": 996,
+    "rating": 4.2,
+    "description": "A warm, satisfying plate of pasta made to perfection.",
+    "category": "Pasta"
+  },
+  {
+    "name": "Tomato Pasta",
+    "image": "food_26.png",
+    "price": 1494,
+    "rating": 4.9,
+    "description": "Creamy, cheesy pasta cooked al dente for the ultimate comfort meal.",
+    "category": "Pasta"
+  },
+  {
+    "name": "Creamy Pasta",
+    "image": "food_27.png",
+    "price": 1328,
+    "rating": 4.6,
+    "description": "Italian-inspired pasta full of rich sauces and herbs.",
+    "category": "Pasta"
+  },
+  {
+    "name": "Chicken Pasta",
+    "image": "food_28.png",
+    "price": 1992,
+    "rating": 5.0,
+    "description": "Creamy, cheesy pasta cooked al dente for the ultimate comfort meal.",
+    "category": "Pasta"
+  },
+  {
+    "name": "Buttter Noodles",
+    "image": "food_29.png",
+    "price": 1162,
+    "rating": 4.8,
+    "description": "Deliciously slurpy noodles seasoned with classic Asian spices.",
+    "category": "Noodles"
+  },
+  {
+    "name": "Veg Noodles",
+    "image": "food_30.png",
+    "price": 996,
+    "rating": 3.7,
+    "description": "Wok-tossed noodles with veggies and sauces that burst with flavor.",
+    "category": "Noodles"
+  },
+  {
+    "name": "Somen Noodles",
+    "image": "food_31.png",
+    "price": 1660,
+    "rating": 4.4,
+    "description": "Aromatic and spicy noodles perfect for a quick hunger fix.",
+    "category": "Noodles"
+  },
+  {
+    "name": "Cooked Noodles",
+    "image": "food_32.png",
+    "price": 1245,
+    "rating": 4.3,
+    "description": "Aromatic and spicy noodles perfect for a quick hunger fix.",
+    "category": "Noodles"
+  }
+]
